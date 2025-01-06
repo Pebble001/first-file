@@ -1,6 +1,6 @@
 # Premier League 2023/2024-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7ae73693-7bab-41f0-a2fa-27287f7d5a61
 
 ## Problem Statement
 The Premier League is rich with data on teams, players, and matches. This dashboard analyses and visualizes this data in an engaging, user-friendly way, providing valuable insights for fans, analysts, and stakeholders for tbe 2023/2024 season thereby providing trends to track stats like goals, points and assists through out the season.
